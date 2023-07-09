@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daria Vdovichenko</h1>
-<h3 align="center">A passionate Junior Frontend Developer.</h3>
+<h1 align="start">Hi 👋, I'm Daria Vdovichenko</h1>
+<h3 align="start">A passionate Junior Frontend Developer.</h3>
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
