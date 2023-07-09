@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
-- 👨‍💻 All of my projects are available at [[daria31v](daria31v)](https://github.com/daria31v)
+- 👨‍💻 All of my projects are available at (https://github.com/daria31v)
 
 - 💬 Ask me about **React, JavaScript**
 
