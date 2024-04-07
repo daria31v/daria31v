@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Daria Vdovichenko</h1>
 <h3 align="start">A passionate Junior Frontend Developer.</h3>
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently learning **TypeScript, Next.js, Python**
 
 - 👨‍💻 All of my projects are available at (https://github.com/daria31v)
 
@@ -20,6 +20,6 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daria31v&show_icons=true&locale=en&layout=compact" alt="daria31v" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daria31v&show_icons=true&locale=en" alt="daria31v" /></p>
+
 
 
